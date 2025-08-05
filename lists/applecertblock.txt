@@ -1,0 +1,15 @@
+!
+! Title: Apple Cert Block
+! Description: List specifically for blocking Apple's Cert related queries for use in sideloading.
+! Version: 1.0.0.1
+! Homepage: https://github.com/HarryMadgwick/AdguardBlocklists
+!
+! Compiled manually v1.0.0.1
+!
+||ocsp.apple.com^
+||ocsp2.apple.com^
+||valid.apple.com^
+||crl.apple.com^
+||certs.apple.com^
+||appattest.apple.com^
+||vpp.itunes.apple.com^
